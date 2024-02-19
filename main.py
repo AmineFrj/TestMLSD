@@ -1,3 +1,3 @@
-version 1
+version bug-fix
 #bug fixed
 add new fonctionnality
